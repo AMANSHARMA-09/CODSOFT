@@ -29,7 +29,7 @@ A simple CLI tool to manage daily tasks with options to add, update, delete, and
 * Command-line interface
 
 
-### 📌 More projects will be added.
+📌 More projects will be added.
 
 🔗Connect with Me
 
