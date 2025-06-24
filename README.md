@@ -28,6 +28,28 @@ A simple CLI tool to manage daily tasks with options to add, update, delete, and
 * File handling
 * Command-line interface
 
+* 2️⃣ Simple Calculator (Command-Line App)
+
+A basic calculator program that allows users to input two numbers and perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+🔧 Features
+
+➕ Addition
+
+➖ Subtraction
+
+✖️ Multiplication
+
+➗ Division
+
+🛠️ Technologies Used
+
+Python 3.x
+
+Conditional statements
+
+Command-line interface
+
 
 ### 📌 More projects will be added.
 
