@@ -50,6 +50,26 @@ A basic calculator program that allows users to input two numbers and perform ba
 
 * Command-line interface
 
+### 3️⃣ Password Generator (Command-Line App)
+A strong and secure password generator that accepts desired password length from the user and generates randomized, complex passwords.
+
+&#x20;🔧 Features:
+
+\- 🔢 User-defined password length &#x20;
+
+\- 🔐 Mixed characters (uppercase, lowercase, digits, symbols) &#x20;
+
+\- 🔁 Option to generate multiple passwords &#x20;
+
+\- ❌ Handles invalid inputs gracefully &#x20;
+
+## 🛠️ Technologies Used:
+* Python 3.x
+* Random
+* String
+* While Loops
+* Error Handling
+
 
 ### 📌 More projects will be added.
 
