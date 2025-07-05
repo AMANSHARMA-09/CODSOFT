@@ -70,6 +70,25 @@ A strong and secure password generator that accepts desired password length from
 * While Loops
 * Error Handling
 
+### 4️⃣ Rock-Paper-Scissors Game (Command-Line App)
+
+A fun Python implementation of the classic Rock-Paper-Scissors game. The user plays against the computer with random choice logic and score tracking.
+
+🔧 **Features**:
+- ✊ Rock / 📄 Paper / ✂️ Scissors input
+- 🎲 Random computer selection
+- 🔢 Score tracking for multiple rounds
+- ✅ Round winner and final result display
+- 🚫 Input validation for errors
+
+🛠️ **Technologies Used**:  
+* Python 3.x
+* Random
+* Conditional Statements
+* Looping
+* CLI
+
+
 
 ### 📌 More projects will be added.
 
